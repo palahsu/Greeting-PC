@@ -4,6 +4,7 @@ Run file it will executes then it will speak on time and greet on every hour.
 
 Greet Features:
 - Good Morning
+- Good Noon
 - Good After Noon
 - Good Evening
 - Good Night
