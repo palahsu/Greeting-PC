@@ -1,6 +1,7 @@
 # Greeting-PC
 This is made with simple Visual Basic Script.  It will work on windows basis operating system or if any other vbs execution environments.
 Run file it will executes then it will speak on time and greet on every hour. You Can Change Your Times. This Vbs Run Automatocally on Your PC.
+If you want to stop this open control panel.
 
 ## Greet Features:
 - Good Morning
