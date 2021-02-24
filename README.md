@@ -22,4 +22,3 @@ For any kind of help, support, payment, donate, suggestion and request ask me on
 </p><p align="left">
 <a href="https://t.me/AD0000000"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
 </p><p align="left"> 
-
